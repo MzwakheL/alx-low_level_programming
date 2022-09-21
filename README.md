@@ -1,1 +1,1 @@
-# Hello world C programming
+Hello world C programming
